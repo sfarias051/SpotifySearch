@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SpotifySearch</string>
+
+    <!-- GENERAL -->
+    <string name="loading">Buscando, por favor espera.</string>
+    <string name="error">Ocurrio un error, intenta nuevamente.</string>
+    <string name="empty_list">No existen datos para mostrar</string>
+    <string name="ok">Ok</string>
+    <!-- GENERAL -->
+
+    <!-- SEARCH -->
+    <string name="search_text_search">Ingresa el artista a buscar</string>
+    <string name="search_button_search">Buscar</string>
+    <string name="search_text_hint"></string>
+    <string name="search_error">Debe ingresar un texto para buscar</string>
+    <string name="search_previous">Busquedas previas</string>
+    <string name="artist_title">ARTISTAS</string>
+    <string name="artist_name">Nombre: </string>
+    <string name="artist_popularity">Popularidad: </string>
+    <string name="album_release">Lanzamiento: </string>
+    <string name="album_song_time">Duración (MS): </string>
+    <string name="album_title">Discos</string>
+
+    <!-- SEARCH -->
+</resources>
